@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small mathematics library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/HarikaThupkar/Pythonlearning_Projects_Datasets/tree/main/Container/TinyMath",
+    url="https://github.com/HarikaThupkar/Tiny_Math",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
